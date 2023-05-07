@@ -21,7 +21,7 @@ Viel Spaß beim Entdecken!
 ## Table of Contents
 - [Team-Fotos](/01%20Team-Fotos/)
 - [Fahrzeug-Fotos](/02%20Fahrzeug-Fotos/)
-- [Videos](/03%20Video/)
+- [Videos](/03%20Videos/)
 - [Arduino-Grundlagenkurs](/04%20Arduino-Grundlagenkurs/)
 - [Schaltplan](/05%20Schaltplan/)
 - [Software](/06%20Software/)
