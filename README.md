@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = ".other/logo.png" alt = "Logo von GSG-Miners" width = "600" height = "200">
+  <img src = ".other/image.png" alt = "Logo von GSG-Miners" width = "600" height = "200">
 </div>
 
 <div align = "center">
