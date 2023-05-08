@@ -4,7 +4,6 @@
 
 <div align = "center">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/GSGMiners/WRO2023-Team-GSGMiners?style=plastic">
-    <img alt="GitHub pull request check state" src="https://img.shields.io/github/status/s/pulls/GSGMiners/WRO2023-Team-GSGMiners/1?style=plastic">
     <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/GSGMiners/WRO2023-Team-GSGMiners?style=plastic">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSGMiners/WRO2023-Team-GSGMiners?style=plastic">
 </div>
