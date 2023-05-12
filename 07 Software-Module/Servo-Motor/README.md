@@ -13,7 +13,7 @@
     <tr>
       <td align = "center">Servo-Motor</td>
       <td align = "center">Eva Brachhhold</td>
-      <td align = "center">06.05.2023</td>
+      <td align = "center">12.05.2023</td>
     </tr>
   </tbody>
 </table>
@@ -39,7 +39,7 @@ Der Servomotor ist ein spezieller elektrischer Motor,  der die Kontrolle der Win
 - Alles ist in einem robusten Plastikgehäuse untergebracht.
 
 <div align = "center">
-  <img src = "Aufbau.png" alt = "Aufbau eines Servomotors" width = "400" height = "200">
+  <img src = "Aufbau.png" alt = "Aufbau eines Servomotors" width = "auto" height = "200">
 <p><i>Aufbau eines Servomotors</i></p>
 </div>
 
@@ -51,7 +51,7 @@ Der Servomotor ist ein spezieller elektrischer Motor,  der die Kontrolle der Win
 - Das rote Kabel stellt den positiven Anschluss VCC am Steckbrett da, das braune den negativen GND. 
 
 <div align = "center">
-  <img src = "Elektrische Anschlüsse.png" alt = "Allgemeine Anschlüsse" width = "500" height = "150">
+  <img src = "Elektrische Anschlüsse.png" alt = "Allgemeine Anschlüsse" width = "auto" height = "150">
 <p><i>Allgemeine Anschlüsse</i></p>
 </div>
 
@@ -84,7 +84,7 @@ Der Servomotor ist ein spezieller elektrischer Motor,  der die Kontrolle der Win
 - Wenn eine Differenz vorliegt, wird der Winkel des Servo korrigiert bis der Ausgleich des Unterschiedes erreicht wurde.
 
 <div align = "center">
-  <img src = "Funktionsweise.png" alt = "Funktionsweise" width = "600" height = "300">
+  <img src = "Funktionsweise.png" alt = "Funktionsweise" width = "auto" height = "300">
 <p><i>Funktionsweise</i></p>
 </div>
 
