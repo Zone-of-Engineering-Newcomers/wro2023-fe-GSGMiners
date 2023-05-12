@@ -39,6 +39,8 @@ Eine LCD-Anzeige besteht grundsätzlich aus zwei Glasscheiben und einer speziell
 <p><i>Anschlüsse des LCD-Displays</i></p>
 </div>
 
+[^1]
+
 ### Anschlüsse am RoboCar
 
 - Der GND wird am Steckbrett auf der negativen Leiste angeschlossen und das Kabel ist schwarz.
@@ -146,3 +148,5 @@ void tasten(){
   }
 }  
 ```
+
+[^1]: https://eckstein-shop.de/media/image/product/144/lg/cp02012_iic_i2c_spi_serial_interface_modul_.webp
