@@ -35,7 +35,7 @@ Eine LCD-Anzeige besteht grundsätzlich aus zwei Glasscheiben und einer speziell
 - Über den SDA-Anschluss (Serieller Datenanschluss) werden immer Daten verschickt und der SCL-Anschluss entscheidet ob diese Daten gültig sind.
 
 <div align = "center">
-  <img src = "Elektrische Anschlüsse.png" alt = "Anschlüsse des LCD-Displays" width = "auto" height = "200">
+  <img src = "Elektrische Anschluesse.png" alt = "Anschlüsse des LCD-Displays" width = "auto" height = "200">
 <p><i>Anschlüsse des LCD-Displays</i></p>
 </div>
 
