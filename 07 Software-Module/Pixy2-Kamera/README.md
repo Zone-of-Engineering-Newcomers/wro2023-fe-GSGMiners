@@ -32,7 +32,7 @@ Ebenso haben wir den Pixy-Monitor auf den Rechnern installiert, um die Kamera an
 ## Table of Contents
 
 - [1. Anlernen der Farbe](#1-anlernen-der-farbe)
-- [2. Erklärung zum Code](#2-eindung-in-die-software-unseres-roboters)
+- [2. Erklärung zum Code](#2-einbindung-in-die-software-unseres-roboters)
 
 ---
 
