@@ -27,6 +27,8 @@ Ebenso haben wir den Pixy-Monitor auf den Rechnern installiert, um die Kamera an
 <p><i>Pixy2-Kamera</i></p>
 </div>
 
+[^1]
+
 ## Table of Contents
 
 - [1. Anlernen der Farbe](#1-anlernen-der-farbe)
@@ -120,3 +122,5 @@ if (pixy.ccc.numBlocks) {
   }
 }
 ```
+
+[^1]: https://static.generation-robots.com/17066-large_default/kamerasensor-pixy2-v21.jpg
