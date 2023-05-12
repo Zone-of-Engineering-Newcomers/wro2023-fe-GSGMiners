@@ -49,7 +49,7 @@ Die Kamera kann durch verschiedene Umgebungsbeleuchtung Farben unterschiedlich w
 
 Im Pixy Monitor können wir beim Wettbewerb auch unter Datei – Konfigurieren die Messung tunen. Wir haben dazu die Möglichkeit unter den Pixy-Parametern den Toleranzbereich der Farbsignatur zu erhöhen. Ideal ist es, wenn das Objekt vollständig und einzeln erfasst wird.
 
-## 2. Eindung in die Software unseres Roboters
+## 2. Einbindung in die Software unseres Roboters
 
 > :warning: Die Software der Pixy2-Kamera ist aktuell noch in Bearbeitung.
 
