@@ -24,6 +24,8 @@
 <p><i>DC-Motor</i></p>
 </div>
 
+[^1]
+
 ## Table of Contents
 
 - [1. Funktionsweise eines DC-Motors](#1-funktionsweise-eines-dc-motors)
@@ -134,3 +136,5 @@ Umgedreht wird der PWM-Puls, falls er “aus” ist, auf “ein” gestellt, ind
   }
 }
 ```
+
+[^1]: https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_758,q_auto,w_1350/c_pad,h_758,w_1350/F2389721-01?pgw=1&pgwact=1
