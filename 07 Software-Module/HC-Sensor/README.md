@@ -13,7 +13,7 @@
     <tr>
       <td align = "center">Ultraschallsensor (HC-SR04)</td>
       <td align = "center">Maximilian Kautzsch</td>
-      <td align = "center">06.05.2023</td>
+      <td align = "center">12.05.2023</td>
     </tr>
   </tbody>
 </table>
@@ -22,7 +22,7 @@
 Im nachfolgenden Abschnitt erfolgt eine prägnante Darstellung der Funktion und Anwendung eines Ultraschallsensors. Des Weiteren wird die Integration desselben in den Roboter mittels der `HC-Sensor.h`-Datei erläutert.
 
 <div align = "center">
-  <img src = "Technische Daten.png" alt = "Technische Daten des HC-SR04" width = "700" height = "200">
+  <img src = "Technische Daten.png" alt = "Technische Daten des HC-SR04" width = "auto" height = "200">
 <p><i>Technische Daten des HC-SR04</i></p>
 </div>
 
@@ -48,7 +48,7 @@ Im nachfolgenden Abschnitt erfolgt eine prägnante Darstellung der Funktion und 
 - Jede Messung erfordert ein Zeitintervall von mindestens 20 ms.
 
 <div align = "center">
-  <img src = "Messprinzip.png" alt = "Funktionsweise eines HC-Sensors" width = "600" height = "200">
+  <img src = "Messprinzip.png" alt = "Funktionsweise eines HC-Sensors" width = "auto" height = "200">
 <p><i>Funktionsweise eines HC-Sensors </i></p>
 </div>
 
@@ -159,7 +159,7 @@ Zusätzlich müssen die Variablen `timer` als Hilfsvariable für die [Timer-Stru
 Die Abstandsmessung mittels eines Ultraschallsensors kann in mehrere Phasen unterteilt werden.
 
 <div align = "center">
-  <img src = "Phasen-der-Messung.png" alt = "Phasen der Messung" width = "600" height = "320">
+  <img src = "Phasen-der-Messung.png" alt = "Phasen der Messung" width = "auto" height = "320">
 <p><i>Phasen der Messung</i></p>
 </div>
 
