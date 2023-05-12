@@ -51,7 +51,7 @@ Der Servomotor ist ein spezieller elektrischer Motor,  der die Kontrolle der Win
 - Das rote Kabel stellt den positiven Anschluss VCC am Steckbrett da, das braune den negativen GND. 
 
 <div align = "center">
-  <img src = "Elektrische Anschlüsse.png" alt = "Allgemeine Anschlüsse" width = "auto" height = "150">
+  <img src = "Elektrische Anschluesse.png" alt = "Allgemeine Anschlüsse" width = "auto" height = "150">
 <p><i>Allgemeine Anschlüsse</i></p>
 </div>
 
