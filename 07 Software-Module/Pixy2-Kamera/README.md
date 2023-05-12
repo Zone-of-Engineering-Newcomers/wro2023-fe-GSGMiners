@@ -4,13 +4,13 @@
 <table>
   <thead>
     <tr>
-      <th align = "center">Pixy2-Kamera</th>
+      <th align = "center">Titel</th>
       <th align = "center">Stand</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align = "center">LCD-Anzeige</td>
+      <td align = "center">Pixy2-Kamera</td>
       <td align = "center">12.05.2023</td>
     </tr>
   </tbody>
